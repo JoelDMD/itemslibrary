@@ -1,13 +1,102 @@
 {
-  "people": [
+    "items": [
+              {
+                  "name": "Vit Hit - Berry",
+                  "price": 1.80,
+                  "calories": 16,
+                  "ingredients": "Water, juice (10%), (7 % blackberry, rose hip 1%, strawberry 0.9 %, blueberry 0.3 %, raspberry 0.3 %, elderberry 1%, blackcurrant .02 %, grape 0.3 %), Rooibos tea extract, citric acid, ginseng infusion, flavourings, sucralose, vitamin blend (vitamin C, niacin, pantothenic acid, vitamin B6, folic acid, biotin, Vitamin B12, Vitamin B1)."
+              },
+              
+              {
+                  "name": "Vit Hit – Dragonfruit + Yuzu",
+                  "price": 1.80,
+                  "calories": 16,
+                  "ingredients": "Water, White grape juice from concentrate (7.9%), citric acid, natural dragonfruit & yuzu flavour, concentrated ceylon tea infusion, Vitamin blend (niacin, pantothenic acid, vitamin B6, vitamin B1, folic acid, biotin, vitamin B12), gum arabic, glycerol esters of wood rosins, antioxidant – ascorbic acid, sucralose, zinc lactate, natural colour – anthocyanins."
+              },
+              
     {
-      "name": "Kyle",
-      "age": 21
+        "name": "Vit Hit - Mandarin",
+        "price": 1.80,
+        "calories": 35,
+        "ingredients": "Water, mandarin juice from concentrate (8%), Orange juice from concentrate (4%), natural flavours, green tea extract,vitamin blend: Vitamin C, niacin, pantothenic acid, vitamin B6, folic acid, Biotin, Vitamin B12, Vitamin B1; Antioxidant ascorbic acid, sweetener sucralose, citric acid,Natural stabilisers pectin and locust bean gum, colour beta carotene."
     },
+              
     {
-      "name": "Jon",
-      "age": 35
+        "name": "Vit Hit – Coconut + Pineapple",
+        "price": 1.80,
+        "calories": 35,
+        "ingredients": "Water, Coconut Water From Concentrate (8%), Pineapple Juice From Concentrate (2%), Modified Starch, Citric Acid, Natural Flavouring, Vegetable Oils (Coconut, Rape) Green Matcha Tea Extract, Antioxidant Ascorbic Acid, L-leucine, L-isoleucine, L-valine, Sweetener Sucralose, Vitamin Blend: Niacin, Pantothenic Acid, Vitamin B6, Vitamin B1, Folic Acid, Biotin, Vitamin B12; Stabiliser Pectin."
+    },
+              
+    {
+        "name": "Juice Burst – Pink Lemonade",
+        "price": 1.60,
+        "calories": 175,
+        "ingredients": "Water, White grape juice from concentrate (25%), Lemon juice from concentrate (3.5%), Sugar, Orange juice from concentrate (1.4%), Natural flavouring, Acid: malic acid, Concentrated lemon extract, Raspberry juice from concentrate (0.1%), Antioxidant: ascorbic acid, Elderberry concentrate, Black carrot concentrate, Stabilisers: carob gum, Colour: anthocyanins."
+    },
+              
+    {
+        "name": "Juice Burst - Tropical",
+        "price": 1.60,
+        "calories": 269,
+        "ingredients": "Juices from concentrate: Orange (69%), Pineapple (17%), Apple (11%), Passion fruit (1%), Mango puree (1%), Banana puree (1%)."
+    },
+              
+    {
+        "name": "Juice Burst - Orange",
+        "price": 1.60,
+        "calories": 220,
+        "ingredients": "Orange juice from concentrate."
+    },
+              
+    {
+        "name": "Juicy Fuel. Cola",
+        "price": 1.00,
+        "calories": 125,
+        "ingredients": "Carbonated Water, Fruit Juices From Concentrate, Grape 63%, Lemon 2%, Natural Flavouring (including cola nut extract. Allergens - Barley Malt Extract."
+    },
+              
+    {
+        "name": "Juicy Fuel. Cola - Cherry",
+        "price": 1.00,
+        "calories": 107,
+        "ingredients": "Carbonated Water, Fruit Juices From Concentrate, Cherry juice 14%, Grape 51%, Lemon 5%, Natural Flavouring (including cola nut extract). Allergens - Barley Malt Extract."
+    },
+              
+    {
+        "name": "Cawston Press – Cloudy Apple",
+        "price": 1.20,
+        "calories": 99,
+        "ingredients": "70% pressed apple juice, sparkling water, vitamin c."
+    },
+              
+    {
+        "name": "Cawston Press - Rhubarb",
+        "price": 1.20,
+        "calories": 125,
+        "ingredients": "Sparkling water, pressed rhubarb juice (12%), pressed apple juice (8%), sugar, malic acid, Vitamin C."
+    },
+              
+    {
+        "name": "Cawston Press – Ginger Beer",
+        "price": 1.20,
+        "calories": 109,
+        "ingredients": "Sparkling water, pressed apple juice (13%), sugar, ginger extracts, vitamin C."
+    },
+              
+    {
+        "name": "Cawston Press – Elderflower Lemonade",
+        "price": 1.20,
+        "calories": 99,
+        "ingredients": "sparkling water, 15% pressed apple juice, sugar, 6% sicilian lemon juice, elderflower infusion, vitamin C."
+    },
+              
+    {
+        "name": "One - Water",
+        "price": 1.20
+        "calories": 0,
+        "ingredients": "Calcium 60.0, Potassium 1.3, Sodium 11.0, Sulphate 16.0, Chloride 16.2, Magnesium 7.7, Nitrate (as NO3) 19.0, Fluoride 0.05, TDS (Total Dissolved Solids) 240."
     }
-  ]
 
+              ]
 }
