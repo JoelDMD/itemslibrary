@@ -1,0 +1,16 @@
+{
+ "items": [
+ {
+    "name": "Twix",
+    "price": 0.60
+    "calories": 492
+ },
+ {
+    "name": "Crisps",
+    "price": 0.70
+    "calories": 382
+ }
+ 
+ ]
+ 
+}
